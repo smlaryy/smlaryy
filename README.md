@@ -28,7 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smlaryy&layout=compact&theme=rose_pine&hide_border=true" height="160"/>
 </p>
 
-> 📌 *Top Languages dihitung dari repo publik kamu (bukan skill mutlak)*
 
 ---
 
