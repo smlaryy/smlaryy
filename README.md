@@ -1,42 +1,58 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">Web Developer | Laravel Enthusiast</h3>
+<h1 align="center">Samuel Aryasatya Widiono</h1>
+<h3 align="center">Junior Web Developer | Laravel</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smlaryy&label=Profile%20views&color=6B1F2B&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=smlaryy&label=Profile%20Views&color=6B1F2B&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Techonlogy Information Education Student at **Universitas Brawijaya**
-- 💻 Focus on **Laravel, PHP, Tailwind**
-- 🚀 Building **real-world web apps & UMKM systems**
-- 📍 Based in **Malang, Indonesia**
+## 👋 Profile
+Saya mahasiswa Pendidikan Teknologi Informasi yang fokus pada **Web Development**, khususnya **Laravel**.  
+Berpengalaman membangun aplikasi **real-world** seperti website UMKM dengan sistem admin, katalog, dan pre-order.
+
+Saya terbiasa mengerjakan:
+- Clean UI (Tailwind)
+- CRUD & Relasi Database
+- Role Admin / Public
+- Deployment-ready structure
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Skills & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,php,html,css,js,tailwind,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smlaryy&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smlaryy&layout=compact&theme=rose_pine&hide_border=true" height="160"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=smlaryy&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smlaryy&layout=compact&theme=default&hide_border=true" />
 </p>
-
 
 ---
 
-## 📌 Featured Project
-### 🍰 Yestosa Bakery
-Website UMKM dengan sistem katalog, pre-order, dan admin dashboard  
-**Tech:** Laravel · Tailwind · MySQL  
+## 💼 Featured Project
+### 🍰 Yestosa Bakery – Website UMKM
+Aplikasi web untuk UMKM bakery dengan fitur:
+- Katalog produk
+- Pre-order via WhatsApp
+- Admin dashboard (Produk, Kategori, PO, Min Order)
+- Responsive design (Desktop & Mobile)
 
-🔗 https://github.com/smlaryy/yestosa-bakery
+**Tech Stack:**  
+Laravel · Tailwind CSS · MySQL · Alpine.js  
+
+🔗 Repository:  
+https://github.com/smlaryy/yestosa-bakery
+
+---
+
+## 🎓 Education
+**Technology Information Education**  
+Universitas Brawijaya
 
 ---
 
