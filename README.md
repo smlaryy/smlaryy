@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Samuel 👋
 
-<!--
-**smlaryy/smlaryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Technology Information Education Student at Universitas Brawijaya  
+💻 Web Developer  
+📍 Malang, Indonesia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- I love building **real-world web applications**
+- Currently focusing on **Laravel + Tailwind**
+- Interested in **UMKM digitalization & admin systems**
+- Learning by building real projects (not just tutorials)
+
+---
+
+## 🛠 Tech Stack
+- **Backend:** Laravel, PHP
+- **Frontend:** HTML, CSS, Tailwind, JavaScript
+- **Tools:** Git, GitHub, VS Code, MySQL
+
+---
+
+## 📌 Featured Projects
+- 🍰 **Yestosa Bakery**  
+  UMKM website with catalog, pre-order system, and admin dashboard  
+  👉 https://github.com/smlaryy/yestosa-bakery
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/smlaryy
+- Email: samuelwidiono21@gmail.com
