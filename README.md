@@ -9,7 +9,7 @@
 
 ## 👋 Profile
 Saya mahasiswa Pendidikan Teknologi Informasi yang fokus pada **Web Development**, khususnya **Laravel**.  
-Berpengalaman membangun aplikasi **real-world** seperti website UMKM dengan sistem admin, katalog, dan pre-order.
+Berpengalaman membangun aplikasi **real-world** seperti website UMKM dengan sistem admin.
 
 Saya terbiasa mengerjakan:
 - Clean UI (Tailwind)
