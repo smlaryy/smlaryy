@@ -1,5 +1,5 @@
 <h1 align="center">Samuel Aryasatya Widiono</h1>
-<h3 align="center">Junior Web Developer | Laravel</h3>
+<h3 align="center">Junior Web Developer | UI/UX Designer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=smlaryy&label=Profile%20Views&color=6B1F2B&style=flat" />
@@ -8,11 +8,11 @@
 ---
 
 ## 👋 Profile
-Saya mahasiswa Pendidikan Teknologi Informasi yang fokus pada **Web Development**, khususnya **Laravel**.  
+Saya mahasiswa Pendidikan Teknologi Informasi yang fokus pada **Web Development**.  
 Berpengalaman membangun aplikasi **real-world** seperti website UMKM dengan sistem admin.
 
 Saya terbiasa mengerjakan:
-- Clean UI (Tailwind)
+- Clean UI
 - CRUD & Relasi Database
 - Role Admin / Public
 - Deployment-ready structure
@@ -22,14 +22,6 @@ Saya terbiasa mengerjakan:
 ## 🛠 Skills & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,php,html,css,js,tailwind,mysql,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=smlaryy&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smlaryy&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
@@ -48,7 +40,34 @@ Laravel · Tailwind CSS · MySQL · Alpine.js
 🔗 Repository:  
 https://github.com/smlaryy/yestosa-bakery
 
+### 💵 Financial Ledger Web Application
+Aplikasi pencatatan keuangan berbasis web dengan fitur: 
+- Autentikasi
+- Manajemen transaksi
+- Dashboard ringkasan
+- Responsive design (Dekstop & Mobile)
+
+**Tech Stack:**  
+Next.js · Typescript · Tailwind CSS · Supabase
+
+🔗 Repository:  
+https://github.com/smlaryy/sistem-kas-keuangan
+
+### 📖 AlphaNext Online Exam Prep Platform - Backend Dev
+Layanan backend untuk platform persiapan ujian daring: 
+- Autentikasi
+- Mengelola soal
+- Sesi ujian
+- Penilaian Otomatis
+- Responsive design (Dekstop & Mobile)
+
+**Tech Stack:**  
+Laravel · MySQL · Bootstrap · Supabase
+
+🔗 Repository:  
+https://github.com/lndeveloperGO/backend-alphanext
 ---
+
 
 ## 🎓 Education
 **Technology Information Education**  
@@ -59,3 +78,4 @@ Universitas Brawijaya
 ## 📫 Contact
 - GitHub: https://github.com/smlaryy
 - Email: *samuelwidiono21@gmail.com*
+- Linkedin: https://www.linkedin.com/in/samuelarya21
