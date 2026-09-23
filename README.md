@@ -62,9 +62,9 @@ Layanan backend untuk platform persiapan ujian daring:
 - Responsive design (Dekstop & Mobile)
 
 **Tech Stack:**  
-Laravel · MySQL · Bootstrap · Supabase
+Laravel · MySQL · Bootstrap · MySQL
 
-🔗 Repository:  
+🔗 Repository:
 https://github.com/lndeveloperGO/backend-alphanext
 ---
 
